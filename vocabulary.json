@@ -15,16 +15,12 @@
     "Banner",
     "Footer"
   ],
-  "layoutGroupNames": [
-    "Left Group",
-    "Right Group",
-    "Top Group",
-    "Center Group",
-    "Bottom Group",
-    "Top Left Group",
-    "Top Right Group",
-    "Bottom Left Group",
-    "Bottom Right Group"
+  "groupNames": [
+    "Info Group",
+    "Meta Group",
+    "Action Group",
+    "Form Group",
+    "SNS Group"
   ],
   "objectElementNames": [
     "Text",
@@ -33,6 +29,7 @@
     "Line",
     "Lottie",
     "Video"
+    "Button"
     "Toggle"
     "Slide Bar"
   ]
