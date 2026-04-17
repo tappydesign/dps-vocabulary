@@ -1,0 +1,39 @@
+{
+  "version": "2026-04-17",
+  "roleNames": [
+    "Header",
+    "Content",
+    "List",
+    "Item",
+    "App Bar",
+    "Tab Bar",
+    "Status Bar",
+    "Bottom Navigation",
+    "CTA",
+    "Form",
+    "Dropdown",
+    "Banner",
+    "Footer"
+  ],
+  "layoutGroupNames": [
+    "Left Group",
+    "Right Group",
+    "Top Group",
+    "Center Group",
+    "Bottom Group",
+    "Top Left Group",
+    "Top Right Group",
+    "Bottom Left Group",
+    "Bottom Right Group"
+  ],
+  "objectElementNames": [
+    "Text",
+    "Image",
+    "Icon",
+    "Line",
+    "Lottie",
+    "Video"
+    "Toggle"
+    "Slide Bar"
+  ]
+}
