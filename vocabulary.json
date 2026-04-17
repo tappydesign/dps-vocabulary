@@ -7,9 +7,13 @@
     "Item",
     "App Bar",
     "Tab Bar",
+    "Filter Bar",
     "Status Bar",
+    "Browser Bar",
+    "Browser Navi",
     "Bottom Navigation",
     "CTA",
+    "FAB",
     "Form",
     "Dropdown",
     "Banner",
@@ -19,7 +23,6 @@
     "Info Group",
     "Meta Group",
     "Action Group",
-    "Form Group",
     "SNS Group"
   ],
   "objectElementNames": [
