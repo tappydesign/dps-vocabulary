@@ -53,6 +53,8 @@
     "Image",
     "Icon",
     "Line",
+    "Dim",
+    "Vector",
     "Lottie",
     "Video",
     "Button",
